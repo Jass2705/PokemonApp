@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1CF1D92D-A239-4FA9-B698-D79F1D11CD74"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BB23466-FCBD-4BDB-8182-714F94D4A079"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMPokedex/ViewModels/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "ViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "038CE7DA-C39F-4D48-843F-AAB7C7BAE1EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMPokedex/ViewModels/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "ViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "530C399F-8F90-4445-8B84-C4E99D22ED85"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMPokedex/ViewModels/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "filteredPokemon"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "530C399F-8F90-4445-8B84-C4E99D22ED85 - 857ae4a98bac3d51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMPokedex.ViewModel.filteredPokemon.getter : Swift.Array&lt;MVVMPokedex.Pokemon&gt;"
+                  moduleName = "MVVMPokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damanjotsingh/Documents/MVVMPokedex/MVVMPokedex/ViewModels/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "530C399F-8F90-4445-8B84-C4E99D22ED85 - aad11716f7678ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVMPokedex.Pokemon) -&gt; Swift.Bool in MVVMPokedex.ViewModel.filteredPokemon.getter : Swift.Array&lt;MVVMPokedex.Pokemon&gt;"
+                  moduleName = "MVVMPokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damanjotsingh/Documents/MVVMPokedex/MVVMPokedex/ViewModels/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A3DA310-A47A-44AA-ABF0-8FC216C34B47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMPokedex/ViewModels/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7FD16E9-F9D1-41E1-984A-B5B0A4887CCE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMPokedex/ViewModels/ViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A7FD16E9-F9D1-41E1-984A-B5B0A4887CCE - dbad09f5df6388bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of MVVMPokedex.ViewModel.searchText : Swift.String"
+                  moduleName = "MVVMPokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damanjotsingh/Documents/MVVMPokedex/MVVMPokedex/ViewModels/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "A7FD16E9-F9D1-41E1-984A-B5B0A4887CCE - f69950d78b066a83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMPokedex.ViewModel.searchText.getter : Swift.String"
+                  moduleName = "MVVMPokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damanjotsingh/Documents/MVVMPokedex/MVVMPokedex/ViewModels/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "A7FD16E9-F9D1-41E1-984A-B5B0A4887CCE - 84367375171d78c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMPokedex.ViewModel.searchText.setter : Swift.String"
+                  moduleName = "MVVMPokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damanjotsingh/Documents/MVVMPokedex/MVVMPokedex/ViewModels/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A7FD16E9-F9D1-41E1-984A-B5B0A4887CCE - cd9711b5907554b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMPokedex.ViewModel.searchText.modify : Swift.String"
+                  moduleName = "MVVMPokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damanjotsingh/Documents/MVVMPokedex/MVVMPokedex/ViewModels/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A7FD16E9-F9D1-41E1-984A-B5B0A4887CCE - c5afaff73cda7f3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMPokedex.ViewModel.searchText.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MVVMPokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damanjotsingh/Documents/MVVMPokedex/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "A7FD16E9-F9D1-41E1-984A-B5B0A4887CCE - 26823eda85167ad0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMPokedex.ViewModel.$searchText.getter : Combine.Published&lt;Swift.String&gt;.Publisher"
+                  moduleName = "MVVMPokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damanjotsingh/Documents/MVVMPokedex/MVVMPokedex/ViewModels/ViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A7FD16E9-F9D1-41E1-984A-B5B0A4887CCE - a9bf33b65d56c71f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMPokedex.ViewModel.$searchText.setter : Combine.Published&lt;Swift.String&gt;.Publisher"
+                  moduleName = "MVVMPokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damanjotsingh/Documents/MVVMPokedex/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "A7FD16E9-F9D1-41E1-984A-B5B0A4887CCE - 1a3120c6d8891028"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMPokedex.ViewModel.$searchText.modify : Combine.Published&lt;Swift.String&gt;.Publisher"
+                  moduleName = "MVVMPokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damanjotsingh/Documents/MVVMPokedex/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "A7FD16E9-F9D1-41E1-984A-B5B0A4887CCE - 154c6e7346626506"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMPokedex.ViewModel.$searchText.modify : Combine.Published&lt;Swift.String&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MVVMPokedex"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/damanjotsingh/Documents/MVVMPokedex/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

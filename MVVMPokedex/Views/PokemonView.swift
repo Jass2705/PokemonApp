@@ -15,7 +15,7 @@ struct PokemonView: View {
     var body: some View {
         VStack {
             AsyncImage(url: URL(string: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/\(vm.getPokemonIndex(pokemon: pokemon)).png")) { image in
-                if let image = image {
+                if image == image {
                     image
                         .resizable()
                         .scaledToFit()
